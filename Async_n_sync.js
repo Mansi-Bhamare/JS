@@ -11,4 +11,4 @@ let d = setTimeout(function(){
     alert("This is setTimeOut")
 }, 3000)
 clearTimeout(a)
-console.log(a)                      //this executed one time all
+console.log(a)                      //this executed one time 
