@@ -1,5 +1,4 @@
 /*We make any function async and after that we make promise await*/
-
 async function abc(){
 let delhiweather = new Promise((resolve, reject)=>{
     setTimeout(()=>{
